@@ -18,7 +18,7 @@ To run Grunt tasks:<br>
    <table>
      <tr>
      <th>Description</th>
-     <th>plugin</th>
+     <th>tasks</th>
      </tr>
      <tr>
       <td>Validate files using jshint</td>

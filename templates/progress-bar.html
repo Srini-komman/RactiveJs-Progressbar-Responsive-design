@@ -1,13 +1,16 @@
+<!-- Template for rendering multiple bars with input controls and buttons -->
+<!-- iterate through the data to render progress bars-->
+<!-- set progress bar colour green if the value is less than data value which 100 other set it to red -->
 {{#each bars}}
 	<div class="progress-root">
 		<div class="progress {{level > 100 ? 'red-bar' : 'green-bar'}}" style="width:{{level > 100 ? 100 : level}}%;">
 			<span class="progress-label">{{level}}%</span>
 		</div>
 	</div>
-	
-	
 {{/each}}
 
+<!-- render buttons for user to to increment the bar level -->
+<!-- bind the combo for the user to chose the bar for progress level increment -->
 <div id="progresslevel">
 	<select value='{{selectedBar}}'>
 		{{#each bars :index}}
@@ -16,7 +19,6 @@
 			</option>
 		{{/each}}
 	</select>
-
 	{{#each increments}}
 		<button on-click='increaseLevel(increment)'>{{increment > 0 ? '+' : ''}}{{increment}}</button>
 	{{/each}}

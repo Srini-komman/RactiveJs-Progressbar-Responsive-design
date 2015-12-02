@@ -5,12 +5,14 @@ Instruction for output:
  --create virtual directory
  --Runt the http://virtualdirectoryname/ProgressiveBars.html
  
-To run Grunt tasks:
+To run Grunt tasks:<br>
 1. make sure you have node installed<br>
-2. install grunt by running following command on command prompt
+2. install grunt by running following command on command prompt<br>
+   <ul><li>
    window - npm install -g grunt-cli
    linux - sudo npm install -g grunt-cli
-3. browse root directory and run following command
+   </li></ul>
+3. browse root directory and run following command<br>
    npm install
 4. run the following grunt tasks
    Validate files using jshint

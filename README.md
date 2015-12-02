@@ -1,11 +1,11 @@
 # RactiveJs-Progress-Bar-Responsive-Design-
 RactiveJs Progress Bar(Responsive Design)
 
-Instruction for output:<br>
+Instruction for output:
 <ul>
 <li>create virtual directory</li>
 <li>Runt the url on your browser http://virtualdirectoryname/ProgressiveBars.html</li>
-</li
+</ul>
 To run Grunt tasks:<br>
 1. make sure you have node installed<br>
 2. install grunt by running following command on command prompt<br>

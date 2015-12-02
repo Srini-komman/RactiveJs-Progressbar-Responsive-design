@@ -6,7 +6,7 @@ Instruction for output:
  --Runt the http://virtualdirectoryname/ProgressiveBars.html
  
 To run Grunt tasks:
-1. make sure you have node installed
+1. make sure you have node installed<br>
 2. install grunt by running following command on command prompt
    window - npm install -g grunt-cli
    linux - sudo npm install -g grunt-cli

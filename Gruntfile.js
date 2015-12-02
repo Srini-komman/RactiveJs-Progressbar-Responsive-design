@@ -10,7 +10,7 @@ module.exports = function(grunt) {
 			options: {
 				reporter: require('jshint-stylish') 
 			},
-			build: ['Gruntfile.js', 'Grunt/src/**/*.js']
+			build: ['Gruntfile.js', 'Grunt/src/**/progressive-bar.js']
 		},
 		
 		// minifying javascripts

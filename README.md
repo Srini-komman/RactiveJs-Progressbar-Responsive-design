@@ -42,6 +42,10 @@ To run Grunt tasks:<br>
       <td>grunt</td>
      </tr>
    </table>
+<p>
+Please find rawgit url below. Rawgit is currently not able to load java scripts and css even though the fies are exist in master branch. I will find out alternative to run the app when I have free time. 
+</p>
+https://cdn.rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/ProgressiveBars.html
    
 
 

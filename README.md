@@ -13,18 +13,35 @@ To run Grunt tasks:<br>
    <li>linux - sudo npm install -g grunt-cli</li>
    </ul>
 3. browse root directory and run following command<br>
-   <ul><li>npm install</li><ul>
-4. run the following grunt tasks
-   Validate files using jshint
-      grunt jshint
-   Minify JS files using UglifyJS
-      grunt uglify
-   Compress CSS files
-      grunt cssmin
-   Compile LESS files to CSS
-      grunt less
-   To run all the above tasks
-      grunt
+   <ul><li>npm install</li></ul>
+4. run the following grunt tasks<br>
+   <table>
+     <tr>
+     <th>Description</th>
+     <th>plugin</th>
+     </tr>
+     <tr>
+      <td>Validate files using jshint</td>
+      <td>grunt jshint</td>
+     </tr>
+     <tr>
+      <td>Minify JS files using UglifyJS</td>
+      <td>grunt uglify</td>
+     </tr>
+     <tr>
+      <td>Compress CSS files</td>
+      <td>grunt cssmin</td>
+     </tr>
+     <tr>
+      <td>Compile LESS files to CSS</td>
+      <td>grunt less</td>
+     </tr>
+     <tr>
+      <td>To run all the above tasks</td>
+      <td>grunt</td>
+     </tr>
+   </table>
+   
 
 
  

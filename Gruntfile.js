@@ -38,6 +38,18 @@ module.exports = function(grunt) {
 			}
 		},
 		
+		// compiling scss files to css
+		sass: {                              
+			build: {                            
+			  options: {                       
+				style: 'expanded'
+			  },
+			  files: {                         
+				'Grunt/dest/css/progressbar.css': 'Grunt/src/css/progressbar.scss',       // 'destination': 'source'
+			  }
+			}
+		},
+		
 		// css minification
 		cssmin: {
 			options: {
@@ -51,17 +63,16 @@ module.exports = function(grunt) {
 		}
 		
 		
-
-		
 	});
 	
 	// Loading grunt plugins configured in package.json
 	grunt.loadNpmTasks('grunt-contrib-jshint');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
+	grunt.loadNpmTasks('grunt-contrib-sass');
 	grunt.loadNpmTasks('grunt-contrib-less');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
 	grunt.loadNpmTasks('grunt-contrib-watch');
-	grunt.registerTask('default', ['jshint', 'uglify', 'cssmin', 'less']); 
+	grunt.registerTask('default', ['jshint', 'uglify', 'cssmin', 'sass', 'less']); 
 	
 };
 		

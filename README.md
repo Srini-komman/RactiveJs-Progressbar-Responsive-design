@@ -1,7 +1,7 @@
 # RactiveJs-Progress-Bar-Responsive-Design-
 RactiveJs Progress Bar(Responsive Design)
 
-Instruction for output:
+Instructions for the output:
 <ul>
 <li>Download the source to local computer</li>
 <li>Create virtual directory, map to physical root directory where the source has been downloaded</li>

@@ -3,7 +3,8 @@ RactiveJs Progress Bar(Responsive Design)
 
 Instruction for output:
 <ul>
-<li>Create virtual directory</li>
+<li>Download the source to local computer</li>
+<li>Create virtual directory, map to physical root directory where the source has been downloaded</li>
 <li>Runt the url on your browser http://virtualdirectoryname/ProgressiveBars.html</li>
 </ul>
 To run Grunt tasks:<br>

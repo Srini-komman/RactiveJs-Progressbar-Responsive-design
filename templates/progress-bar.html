@@ -3,7 +3,7 @@
 <!-- set progress bar colour green if the value is less than data value which 100 other set it to red -->
 {{#each bars}}
 	<div class="progress-root">
-		<div class="progress {{level > 100 ? 'red-bar' : 'green-bar'}}" style="width:{{level > 100 ? 100 : level}}%;">
+		<div id="progressbar" class="progress {{level > 100 ? 'red-bar' : 'green-bar'}}" style="width:{{level > 100 ? 100 : level}}%;">
 			<span class="progress-label">{{level}}%</span>
 		</div>
 	</div>

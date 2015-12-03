@@ -5,7 +5,7 @@ Instructions for the output:
 <ul>
 <li>Download the source to local computer</li>
 <li>Create virtual directory, map to physical root directory where the source has been downloaded</li>
-<li>Runt the url on your browser http://virtualdirectoryname/ProgressiveBars.html</li>
+<li>Run the url on your browser http://virtualdirectoryname/ProgressiveBars.html</li>
 </ul>
 <b>TDD with mocah and chai</b>
 <ul>

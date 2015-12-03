@@ -46,6 +46,12 @@ To run Grunt tasks:<br>
       <td>grunt</td>
      </tr>
    </table>
+5. SASS setup
+   <ul>
+      <li>Download and install the <a href="http://rubyinstaller.org/downloads/">Ruby</a></li>
+      <li>Change the working directory to ruby folder where the gem is installed</li>
+      <li>Run the command on command prompt "gem install sass"</li>
+   </ul>
 <p>
 Please find rawgit url below. <br><b>Note: </b>Rawgit is currently not able to load java scripts and css even though the files are exist in the master branch. I will find out the alternative later when I have free time
 </p>

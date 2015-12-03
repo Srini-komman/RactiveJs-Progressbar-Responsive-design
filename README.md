@@ -34,6 +34,10 @@ To run Grunt tasks:<br>
       <td>grunt cssmin</td>
      </tr>
      <tr>
+      <td>Compile sass files to CSS</td>
+      <td>grunt sass</td>
+     </tr>
+     <tr>
       <td>Compile LESS files to CSS</td>
       <td>grunt less</td>
      </tr>

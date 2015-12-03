@@ -7,6 +7,13 @@ Instructions for the output:
 <li>Create virtual directory, map to physical root directory where the source has been downloaded</li>
 <li>Runt the url on your browser http://virtualdirectoryname/ProgressiveBars.html</li>
 </ul>
+<b>TDD with mocah and chai</b>
+<ul>
+   <li>Install mocha<br>npm install mocha --save-dev</li>
+   <li>Install chai<br>npm install chai --save-dev</li>
+   <li>Change directory to tests</li>
+   <li>Run the index.html on the browser</li>
+</ul>
 To run Grunt tasks:<br>
 1. Ensure that you have node installed on your server<br>
 2. Install grunt by running following command on command prompt<br>

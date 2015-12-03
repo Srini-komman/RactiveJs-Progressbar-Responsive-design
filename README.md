@@ -14,7 +14,7 @@ Instructions for the output:
    <li>Change directory to tests</li>
    <li>Run the index.html on the browser</li>
 </ul>
-To run Grunt tasks:<br>
+<b>To run Grunt tasks:</b><br>
 1. Ensure that you have node installed on your server<br>
 2. Install grunt by running following command on command prompt<br>
    <ul>

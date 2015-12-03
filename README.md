@@ -15,7 +15,7 @@ Instructions for the output:
    <li>Run the index.html on the browser</li>
 </ul>
 <b>To run Grunt tasks:</b><br>
-1. Ensure that you have node installed on your server<br>
+1. Please ensure that you have node installed on your server<br>
 2. Install grunt by running following command on command prompt<br>
    <ul>
    <li>windows: npm install -g grunt-cli</li>

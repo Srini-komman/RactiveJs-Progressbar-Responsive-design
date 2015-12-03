@@ -28,6 +28,7 @@
 
   .progress {
     position: relative;
+    text-align: center;
     width: 100%;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
@@ -77,6 +78,7 @@
 
   .progress {
     position: relative;
+    text-align: center;
     width: 100%;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
@@ -126,6 +128,7 @@
 
   .progress {
     position: relative;
+    text-align: center;
     width: 100%;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
@@ -175,6 +178,7 @@
 
   .progress {
     position: relative;
+    text-align: center;
     width: 100%;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;

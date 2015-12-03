@@ -2,37 +2,46 @@
   #pagewrap {
     width: 90%;
   }
+
   #contentPB {
     width: 70%;
     height: 60px;
     margin: 1em 0.1em 0em 2em;
   }
+
   #progresslevel {
     left: 2em;
   }
+
   .progress-root {
-    width: 100%
-		position:relative;
-    border: 0.2em solid #E6E5E5;
+    width: 100%;
+    position: relative;
     margin: 0em 0em 0.5em 0em;
-    border-radius: 0.5em;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
     -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
+    border-width: 0.2em;
+    border-style: solid;
+    border-color: #E6E5E5;
   }
+
   .progress {
     position: relative;
+    text-align: center;
     width: 100%;
-    border-radius: 0.5em;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
     -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
   }
+
   .progress-label {
     position: relative;
     color: #000;
     font-size: 2em;
   }
+
   h1 {
     font-size: 2.5em;
     margin: 1em 0.1px 0em 0.8em;
@@ -44,36 +53,45 @@
   #pagewrap {
     width: 90%;
   }
+
   #contentPB {
     width: 75%;
     height: 45px;
   }
+
   #progresslevel {
     left: 2em;
   }
+
   .progress-root {
-    width: 100%
-		position:relative;
-    border: 0.2em solid #E6E5E5;
+    width: 100%;
+    position: relative;
     margin: 0em 0em 0.5em 0em;
-    border-radius: 0.5em;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
     -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
+    border-width: 0.2em;
+    border-style: solid;
+    border-color: #E6E5E5;
   }
+
   .progress {
     position: relative;
+    text-align: center;
     width: 100%;
-    border-radius: 0.5em;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
     -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
   }
+
   .progress-label {
     position: relative;
     color: #000;
     font-size: 1.5em;
   }
+
   h1 {
     font-size: 1.8em;
     margin: 1em 0.1px 0em 1.2em;
@@ -85,36 +103,45 @@
   #pagewrap {
     width: 90%;
   }
+
   #contentPB {
     width: 70%;
     height: 40px;
   }
+
   #progresslevel {
     left: 2em;
   }
+
   .progress-root {
-    width: 100%
-		position:relative;
-    border: 0.2em solid #E6E5E5;
+    width: 100%;
+    position: relative;
     margin: 0em 0em 0.5em 0em;
-    border-radius: 0.5em;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
     -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
+    border-width: 0.2em;
+    border-style: solid;
+    border-color: #E6E5E5;
   }
+
   .progress {
     position: relative;
+    text-align: center;
     width: 100%;
-    border-radius: 0.5em;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
     -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
   }
+
   .progress-label {
     position: relative;
     color: #000;
     font-size: 1em;
   }
+
   h1 {
     font-size: 1.2em;
     margin: 1em 0.1px 0em 1.7em;
@@ -126,36 +153,45 @@
   #pagewrap {
     width: 95%;
   }
+
   #contentPB {
     width: 77%;
     height: 30px;
   }
+
   #progresslevel {
     left: 2em;
   }
+
   .progress-root {
-    width: 100%
-		position:relative;
-    border: 0.2em solid #E6E5E5;
+    width: 100%;
+    position: relative;
     margin: 0em 0em 0.5em 0em;
-    border-radius: 0.5em;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
     -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
+    border-width: 0.2em;
+    border-style: solid;
+    border-color: #E6E5E5;
   }
+
   .progress {
     position: relative;
+    text-align: center;
     width: 100%;
-    border-radius: 0.5em;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
     -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
   }
+
   .progress-label {
     position: relative;
     color: #000;
     font-size: 0.9em;
   }
+
   h1 {
     font-size: 1em;
     margin: 1em 0.1px 0em 2em;
@@ -167,10 +203,12 @@
   height: inherit;
   background-color: #93FF33;
 }
+
 .red-bar {
   height: inherit;
   background-color: #FF4933;
 }
+
 input[type=range] {
   position: absolute;
   top: 0;
@@ -180,3 +218,5 @@ input[type=range] {
   cursor: pointer;
   opacity: 0;
 }
+
+/*# sourceMappingURL=progressbar.css.map */

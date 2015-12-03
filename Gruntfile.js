@@ -46,6 +46,7 @@ module.exports = function(grunt) {
 			  },
 			  files: {                         
 				'Grunt/dest/css/progressbar.css': 'Grunt/src/css/progressbar.scss',       // 'destination': 'source'
+				'Grunt/src/css/progressbar.css': 'Grunt/src/css/progressbar.scss', 
 			  }
 			}
 		},

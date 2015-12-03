@@ -10,8 +10,8 @@ To run Grunt tasks:<br>
 1. Ensure that you have node installed on your server<br>
 2. Install grunt by running following command on command prompt<br>
    <ul>
-   <li>window - npm install -g grunt-cli</li>
-   <li>linux - sudo npm install -g grunt-cli</li>
+   <li>windows: npm install -g grunt-cli</li>
+   <li>linux: sudo npm install -g grunt-cli</li>
    </ul>
 3. Open the command prompt, change the working directory app root directory(where Gruntfile.js and package.json are) and run following command<br>
    <ul><li>npm install</li></ul>

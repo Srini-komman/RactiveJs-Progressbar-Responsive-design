@@ -18,9 +18,9 @@ RactiveJs Progress Bar(Responsive Design)
 <b>Version Control: </b><i>git</i><br><br>
 <b>App has been tested on following browsers and Devices</b><br>
 <ul>
-<li>chrome</li>
-<i>safari</li>
-<li>i.e</li>
+<li>Chrome</li>
+<li>Safari</li>
+<li>IE</li>
 <li>Mozilla firefox</li>
 <li>iphone 4s</li>
 </ul>

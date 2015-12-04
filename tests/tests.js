@@ -5,7 +5,7 @@
 		assert = chai.assert;
 		load = Ractive.load;
 		
-		it( 'should load a progressive-bar component with green colour', function () {
+		it( 'should load a progressive-bar component with green bar', function () {
 			return load( '../templates/progress-bar.html' ).then( function ( Component ) {
 				var ractive = new Component({
 					data: {	
@@ -21,7 +21,7 @@
 			
 		});
 		
-		it( 'should load a progressive-bar component with red colour', function () {
+		it( 'should load a progressive-bar component with red bar', function () {
 			return load( '../templates/progress-bar.html' ).then( function ( Component ) {
 				var ractive = new Component({
 					data: {	

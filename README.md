@@ -27,7 +27,7 @@ RactiveJs Progress Bar(Responsive Design)
    <li>Install mocha<br>npm install mocha --save-dev</li>
    <li>Install chai<br>npm install chai --save-dev</li>
    <li>Change directory to tests</li>
-   <li>Run the index.html on the browser</li>
+   <li>Run the test-runner.html on the browser</li>
 </ul>
 </li>
 </ul>

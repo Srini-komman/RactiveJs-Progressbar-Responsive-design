@@ -46,7 +46,7 @@ module.exports = function(grunt) {
 			  },
 			  files: {                         
 				'Grunt/dest/css/progressbar.css': 'Grunt/src/css/progressbar.scss',       // 'destination': 'source'
-				'Grunt/src/css/progressbar.css': 'Grunt/src/css/progressbar.scss', 
+				'Grunt/src/css/progressbar.css': 'Grunt/src/css/progressbar.scss'
 			  }
 			}
 		},
@@ -58,7 +58,8 @@ module.exports = function(grunt) {
 			},
 			build: {
 				files: {
-					'Grunt/dest/css/progressbar.min.css': 'Grunt/src/css/progressbar.css'
+					'Grunt/dest/css/progressbar.min.css': 'Grunt/src/css/progressbar.css',
+					'styles/progressbar.min.css': 'Grunt/src/css/progressbar.css'
 				}
 			}
 		}

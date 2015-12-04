@@ -1,17 +1,27 @@
 # RactiveJs-Progress-Bar-Responsive-Design-
 RactiveJs Progress Bar(Responsive Design)
 
-Instructions for the output:
-<b>Online:</b> <a href="https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/ProgressBars.html">https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/ProgressBars.html</a></br>
-
-<b>Offline on local computer:</b></br>
+<b>Instructions for the output:</b><br>
+<ul>
+<li>
+<b>Online: </b> <a href="https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/ProgressBars.html">https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/ProgressBars.html</a></br>
+</li>
+<li>
+<b>Offline on your local computer:</b><br>
 <ul>
 <li>Download the source to local computer</li>
 <li>Create virtual directory, map to physical root directory where the source has been downloaded</li>
 <li>Run the url on your browser http://virtualdirectoryname/ProgressBars.html</li>
 </ul>
-<b>TDD with mocah and chai</b>
+</li>
+</ul>
+
+<b>TDD with mocah and chai</b><br>
+<ul>
+<li>
 <b>Online: </b><a href="https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html">https://cdn.rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html</a><br>
+<li>
+<li>
 <b>Offline on your local computer:<b><br>
 <ul>
    <li>Install mocha<br>npm install mocha --save-dev</li>
@@ -19,7 +29,8 @@ Instructions for the output:
    <li>Change directory to tests</li>
    <li>Run the index.html on the browser</li>
 </ul>
-
+</li>
+</ul>
 <b>To run Grunt tasks:</b><br>
 1. Please ensure that you have node installed on your server<br>
 2. Install grunt by running following command on command prompt<br>

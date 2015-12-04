@@ -19,10 +19,10 @@ RactiveJs Progress Bar(Responsive Design)
 <b>TDD with mocah and chai</b><br>
 <ul>
 <li>
-<b>Online: </b><a href="https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html">https://cdn.rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html</a><br>
+<b>Online: </b><a href="https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html">https://cdn.rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html</a>
+</li>
 <li>
-<li>
-<b>Offline on your local computer:<b><br>
+<b>Offline on your local computer:</b><br>
 <ul>
    <li>Install mocha<br>npm install mocha --save-dev</li>
    <li>Install chai<br>npm install chai --save-dev</li>
@@ -40,7 +40,14 @@ RactiveJs Progress Bar(Responsive Design)
    </ul>
 3. Open the command prompt, change the working directory to app root directory(where Gruntfile.js and package.json are) and run following command<br>
    <ul><li>npm install</li></ul>
-4. Run the following grunt tasks<br>
+4. SASS setup
+   <ul>
+      <li>Download and install the <a href="http://rubyinstaller.org/downloads/">Ruby</a></li>
+      <li>Change the working directory to ruby folder where the gem is installed</li>
+      <li>Run the command on command prompt <br>gem install sass</li>
+      <li><b>Double Check:</b><br>sass -v</li>
+   </ul>
+5. Run the following grunt tasks<br>
    <table>
      <tr>
      <th>Description</th>
@@ -71,14 +78,8 @@ RactiveJs Progress Bar(Responsive Design)
       <td>grunt</td>
      </tr>
    </table>
-5. SASS setup
-   <ul>
-      <li>Download and install the <a href="http://rubyinstaller.org/downloads/">Ruby</a></li>
-      <li>Change the working directory to ruby folder where the gem is installed</li>
-      <li>Run the command on command prompt <br>gem install sass</li>
-      <li><b>Double Check:</b><br>sass -v</li>
-   </ul>
-<p>
+
+
 
 
  

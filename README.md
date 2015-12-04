@@ -19,7 +19,7 @@ RactiveJs Progress Bar(Responsive Design)
 <b>App has been tested on following browsers and Devices</b><br>
 <ul>
 <li>chrome</li>
-<ii>safari</li>
+<i>safari</li>
 <li>i.e</li>
 <li>iphone 4s</li>
 </ul>

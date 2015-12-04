@@ -250,6 +250,56 @@
     color: #3032AF;
   }
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+  #pagewrap {
+    width: 95%;
+  }
+
+  #contentPB {
+    width: 95%;
+    height: 35px;
+  }
+
+  #progresslevel {
+    left: 1em;
+  }
+
+  .progress-root {
+    width: 100%;
+    position: relative;
+    margin: 0em 0em 0.5em 0em;
+    -moz-border-radius: 0.5em;
+    -webkit-border-radius: 0.5em;
+    -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
+    border-width: 0.2em;
+    border-style: solid;
+    border-color: #E6E5E5;
+  }
+
+  .progress {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    -moz-border-radius: 0.5em;
+    -webkit-border-radius: 0.5em;
+    -khtml-border-radius: 0.5em;
+    border-radius: 0.5em;
+  }
+
+  .progress-label {
+    position: relative;
+    color: #000;
+    font-size: 0.6em;
+  }
+
+  h1 {
+    font-size: 0.6em;
+    margin: 1em 0.1px 0em 1em;
+    font-weight: bold;
+    color: #3032AF;
+  }
+}
 .green-bar {
   height: inherit;
   background-color: #93FF33;

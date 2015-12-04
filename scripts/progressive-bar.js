@@ -1,4 +1,5 @@
 var ractivePB;
+Ractive.DEBUG = false;
 	Ractive.load('templates/progress-bar.html').then(function(ProgressBar){
 		ractivePB = new ProgressBar({
 			el: '#contentpb',

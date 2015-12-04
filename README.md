@@ -15,7 +15,7 @@ RactiveJs Progress Bar(Responsive Design)
 </ul>
 </li>
 </ul>
-<b>Version Control:</b><i>git</i><br>
+<b>Version Control: </b><i>git</i><br><br>
 <b>TDD with mocah and chai</b><br>
 <ul>
 <li>

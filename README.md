@@ -21,6 +21,7 @@ RactiveJs Progress Bar(Responsive Design)
 <li>chrome</li>
 <i>safari</li>
 <li>i.e</li>
+<li>Mozilla firefox</li>
 <li>iphone 4s</li>
 </ul>
 <b>TDD with mocah and chai</b><br>

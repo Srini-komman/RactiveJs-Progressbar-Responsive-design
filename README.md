@@ -13,6 +13,7 @@ Instructions for the output:
    <li>Install chai<br>npm install chai --save-dev</li>
    <li>Change directory to tests</li>
    <li>Run the index.html on the browser</li>
+   <li>Link to run tests on rawgit <br><a href="https://cdn.rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html">https://cdn.rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html</a></li>
 </ul>
 <b>To run Grunt tasks:</b><br>
 1. Please ensure that you have node installed on your server<br>

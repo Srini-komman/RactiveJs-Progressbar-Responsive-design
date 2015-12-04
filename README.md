@@ -19,7 +19,7 @@ RactiveJs Progress Bar(Responsive Design)
 <b>TDD with mocah and chai</b><br>
 <ul>
 <li>
-<b>Online: </b><a href="https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html">https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/index.html</a>
+<b>Online: </b><a href="https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/test-runner.html">https://rawgit.com/Srini-komman/RactiveJs-Progressbar-Responsive-design/master/tests/test-runner.html</a>
 </li>
 <li>
 <b>Offline on your local computer:</b><br>

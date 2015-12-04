@@ -21,7 +21,7 @@ Instructions for the output:
    <li>windows: npm install -g grunt-cli</li>
    <li>linux: sudo npm install -g grunt-cli</li>
    </ul>
-3. Open the command prompt, change the working directory app root directory(where Gruntfile.js and package.json are) and run following command<br>
+3. Open the command prompt, change the working directory to app root directory(where Gruntfile.js and package.json are) and run following command<br>
    <ul><li>npm install</li></ul>
 4. Run the following grunt tasks<br>
    <table>

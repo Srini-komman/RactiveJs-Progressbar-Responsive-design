@@ -16,6 +16,14 @@ RactiveJs Progress Bar(Responsive Design)
 </li>
 </ul>
 <b>Version Control: </b><i>git</i><br><br>
+<b>App has been tested on following browsers and Devices</b><br>
+<ul>
+<li>Chrome</li>
+<li>Safari</li>
+<li>IE</li>
+<li>Mozilla firefox</li>
+<li>iphone 4s</li>
+</ul>
 <b>TDD with mocah and chai</b><br>
 <ul>
 <li>
